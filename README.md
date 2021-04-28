@@ -7,6 +7,8 @@
 ###### Encabezado de nivel 6
 
 
-Este  es el texto   del  repos ...
-**Texto en negrita**
+Este  es el texto   del  repos 
+
+**Texto en negrita
+
 *Texto en itálica*
